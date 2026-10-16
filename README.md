@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing](https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing)" target="_blank">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)▶_Watch_Presentation-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Presentation"/>
+  <a href="https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_Presentation-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Presentation"/>
   </a>
-  <a href="#high-fidelity-interface-mock-ups">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📱_Explore-UI_Mockups-2ea44f?style=for-the-badge" alt="Explore UI Mockups"/>
+  <a href="#mockups">
+    <img src="https://img.shields.io/badge/📱_Explore-UI_Mockups-2ea44f?style=for-the-badge" alt="Explore UI Mockups"/>
   </a>
-  <a href="#application-logical-flow">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🧭_View-User_Flow-8A2BE2?style=for-the-badge" alt="View User Flow"/>
+  <a href="#flow">
+    <img src="https://img.shields.io/badge/🧭_View-User_Flow-8A2BE2?style=for-the-badge" alt="View User Flow"/>
   </a>
 </p>
 

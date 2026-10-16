@@ -5,17 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing](https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing)" target="_blank">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)▶_Watch_Presentation-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Presentation"/>
-  </a>
-  <a href="#5-high-fidelity-interface-mock-ups">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📱_Explore-UI_Mockups-2ea44f?style=for-the-badge" alt="Explore UI Mockups"/>
-  </a>
-  <a href="#4-application-logical-flow">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🧭_View-User_Flow-8A2BE2?style=for-the-badge" alt="View User Flow"/>
-  </a>
+  <a href="https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing"><b>▶️ Watch Presentation (Google Drive)</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#5-high-fidelity-interface-mock-ups"><b>📱 Explore UI Mock-ups</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#4-application-logical-flow"><b>🧭 View User Flow</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="docs/Programming%20Assignment%202.docx"><b>📄 Download Report (.docx)</b></a>
 </p>
-
 ---
 
 ## Table of Contents
@@ -141,43 +138,18 @@ graph TD
 
 ### 1. Onboarding & Authentication
 A clear, user-friendly login and registration flow with quick password recovery.
-
-<p align="center">
-  <img src="assets/login.png" width="230" alt="Login Page"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/register.png" width="230" alt="Create Account Page"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/forgot_password.png" width="230" alt="Forgot Password Page"/>
-</p>
-
 * **Login Page:** Clean credential input fields with a password visibility toggle, direct registration link, and password reset trigger.
 * **Create New Account Page:** Structured input fields for Name, Email, Password, Repeat Password, and Date of Birth calendar selector.
 * **Forgot Password Page:** Email verification dispatch that sends a password reset link and returns users smoothly to the login screen.
 
 ### 2. Browsing, Product Details & Cart Management
 Consistent layouts and uncluttered interfaces keep the focus on products and pricing.
-
-<p align="center">
-  <img src="assets/home.png" width="230" alt="Home Page"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/product_detail.png" width="230" alt="Individual Product Page"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/cart.png" width="230" alt="Shopping Cart Page"/>
-</p>
-
 * **Home Page:** Features a top search bar with image-scan icon, promotional banner, quick-access utility grid (Delivery, Bills, Vouchers, Coins, Wallet, Live, Help Center, Category), and "Hot Deals" / "For You" product feeds.
 * **Individual Product Page:** Displays product imagery, color swatches, size selectors (`XS` to `XL`), expandable description, authentic buyer reviews, seller rating badge, remaining stock count (`15 items left`), and an "Add to Cart" button.
 * **Shopping Cart Page:** Organized list with in-cart search, sorting filter, independent item selection checkboxes, quantity dropdown steppers, top delete icon, and sticky total summary.
 
 ### 3. Transparent Checkout & User Profile
 Upfront cost breakdowns eliminate hidden fees and reduce shopping cart abandonment.
-
-<p align="center">
-  <img src="assets/checkout.png" width="230" alt="Checkout Page"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/profile.png" width="230" alt="User Profile Page"/>
-</p>
-
 * **Checkout Page:** Highlights the recipient's delivery address at the top with an `Edit` button, itemized store orders, shipping fees, store discounts, payment method selector, voucher input, coin redemption toggle, and complete `Price Details` summary.
 * **User Profile Page:** Displays wallet balance, coin count, `Top Up` button, quick links (Wishlist, Following Shops, Recently Viewed), order tracking pipeline (`To Pay`, `To Ship`, `To Receive`, `To Rate`, `Return & Refund`), Customer Support, Become a Seller, and Settings.
 

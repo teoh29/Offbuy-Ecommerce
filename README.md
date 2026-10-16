@@ -1,18 +1,21 @@
-# OffBuy — E-Commerce Mobile UI/UX Design Case Study
+# <a id="top"></a>OffBuy — E-Commerce Mobile UI/UX Design Case Study
 
 <p align="center">
   <b>A human-centered mobile e-commerce design built to eliminate visual clutter, resolve navigation fatigue, and offer upfront pricing transparency.</b>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing"><b>▶️ Watch Presentation (Google Drive)</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#5-high-fidelity-interface-mock-ups"><b>📱 Explore UI Mock-ups</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#4-application-logical-flow"><b>🧭 View User Flow</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="docs/Programming%20Assignment%202.docx"><b>📄 Download Report (.docx)</b></a>
+  <a href="https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B6_Watch_Presentation-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Presentation"/>
+  </a>
+  <a href="#mockups">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B1_Explore-UI_Mockups-2ea44f?style=for-the-badge" alt="Explore UI Mockups"/>
+  </a>
+  <a href="#flow">
+    <img src="https://img.shields.io/badge/%F0%9F%A7%AD_View-User_Flow-8A2BE2?style=for-the-badge" alt="View User Flow"/>
+  </a>
 </p>
+
 ---
 
 ## Table of Contents
@@ -45,7 +48,7 @@ During and following the COVID-19 pandemic and the Movement Control Order (MCO) 
 * **Upfront Price & Fee Transparency:** Complete itemized visibility into merchandise subtotals, shipping fees, store discounts, and coin redemptions prior to checkout.
 * **Authentic Review Validation:** Verified buyer feedback system to build consumer confidence and trust.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -58,7 +61,7 @@ Modern mobile shoppers regularly face friction across four key touchpoints:
 3. **Ineffective Search Engines:** When customers make minor spelling mistakes, poor search engines return zero-result pages or irrelevant listings, causing users to falsely assume products are out of stock.
 4. **Payment Friction & Security Anxiety:** Difficulty locating alternative payment methods beyond credit/debit cards and fear of personal data leakage cause user anxiety and high cart abandonment.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -72,10 +75,11 @@ Before designing OffBuy, our team audited three leading e-commerce applications 
 | **Lazada** | • Clean homepage contrast with bolded, emphasized product pricing and discounts<br>• Prominent "Collect Voucher" banner in the shopping cart<br>• Pre-checked basket items expedite checkout and reduce mental strain<br>• Superior visual hierarchy and search filters on listing pages | • In-app wallet icon is poorly visible, making emergency balance access difficult<br>• Blue color scheme and commercial banners create visual clutter when scrolling downward<br>• Transaction history is buried beneath promotional areas |
 | **SHEIN** | • Strong category navigation applying Information-Foraging Theory (main tabs at top, subcategories on left)<br>• Combines UX Heuristics No. 2 and No. 9 effectively<br>• Integrated "Fit Finder" sizing tool reduces return rates | • Excessive information density and lack of blank space result in an overcrowded interface<br>• Search filter contains too many unorganized options |
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
+<a id="flow"></a>
 ## 4. Application Logical Flow
 
 The architecture diagram below maps the complete user pathway across OffBuy:
@@ -130,10 +134,11 @@ graph TD
 10. **Payment Processing:** Secure transaction execution via credit/debit cards, e-wallets, online banking, or physical cash on delivery.
 11. **Order Confirmation:** Instant receipt generation via email and in-app notification containing order ID, itemized costs, and estimated delivery date.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
+<a id="mockups"></a>
 ## 5. High-Fidelity Interface Mock-ups
 
 ### 1. Onboarding & Authentication
@@ -153,7 +158,7 @@ Upfront cost breakdowns eliminate hidden fees and reduce shopping cart abandonme
 * **Checkout Page:** Highlights the recipient's delivery address at the top with an `Edit` button, itemized store orders, shipping fees, store discounts, payment method selector, voucher input, coin redemption toggle, and complete `Price Details` summary.
 * **User Profile Page:** Displays wallet balance, coin count, `Top Up` button, quick links (Wishlist, Following Shops, Recently Viewed), order tracking pipeline (`To Pay`, `To Ship`, `To Receive`, `To Rate`, `Return & Refund`), Customer Support, Become a Seller, and Settings.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -164,7 +169,7 @@ The Malaysian e-commerce market expanded rapidly following the 2020 Movement Con
 * **Internal Stakeholders (Employees & Owners):** Smooth departmental operations rely on well-supported employees. Preventing understaffing and burnout directly improves software quality and customer service.
 * **External Stakeholders (Customers & Competitors):** Facing competition from feature-heavy apps like SHEIN requires continuous app updates, feature refinement, and active monitoring of customer feedback to fix software bugs.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -175,7 +180,7 @@ The Malaysian e-commerce market expanded rapidly following the 2020 Movement Con
 3. **Workaholics & Busy Professionals:** Time-poor individuals who rely on fast mobile ordering and same-day parcel dispatch (before 12:00 AM for intra-state orders).
 4. **Cross-Border & Niche Product Seekers:** Buyers searching for items unavailable locally by connecting with international sellers from Mainland China, Indonesia, and Vietnam.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -192,7 +197,7 @@ OffBuy sustains platform development and marketplace operations through three re
 3. **Bulk E-Voucher Sales:**
    * Sellers purchase promotional vouchers in bulk from OffBuy to distribute as random rewards or interactive mini-games (e.g., spinning wheel rewards), generating commission revenue while boosting customer retention.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -203,7 +208,7 @@ OffBuy sustains platform development and marketplace operations through three re
 3. **Organic Content & Influencer Marketing:** Encouraging verified buyers to post photo/video product reviews (organic user-generated content) alongside PR gift collaborations with social media influencers to build brand authority.
 4. **User Loyalty Programs:** A point-based reward system scaled to transaction value, paired with birthday gift cards and exclusive vouchers to maximize long-term retention.
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -225,7 +230,7 @@ To demonstrate how the OffBuy interface translates into a functional Java deskto
 | **`java.awt.Color`** | Uses `setBackground()` for comfortable light-toned backgrounds and `setForeground()` to create typographic contrast (e.g., black review titles vs. grey review counts). |
 | **`java.awt.Font`** | Differentiates visual hierarchy across headers, bold reviewer names, and smaller comment body text. |
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -236,7 +241,7 @@ Click the badge below to watch our group's video presentation on Google Drive:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jh1Xe4WQP0wJvdOJRtxNez3QX66S0m_d/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/▶_Watch_Video_Presentation-Google_Drive-blue?style=for-the-badge&logo=google-drive&logoWidth=20" alt="Watch Presentation Link"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6_Watch_Video_Presentation-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Presentation Link"/>
   </a>
 </p>
 
@@ -245,7 +250,7 @@ Click the badge below to watch our group's video presentation on Google Drive:
 ### Coursework Report
 * [Download Full Coursework Report (.docx)](docs/Programming%20Assignment%202.docx)
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -258,7 +263,7 @@ Click the badge below to watch our group's video presentation on Google Drive:
 | **Sian Yi Xuan** | 23099609 | • Stakeholders Analysis<br>• Market Reach & Target Audience<br>• Monetizing Strategy<br>• Video Presentation (Stakeholders, Target Audience & Monetizing Strategy) |
 | **Teoh En Yi** | 23051105 | • Mock-up Design<br>• Logical Flow Diagram & Architecture<br>• Video Presentation (Application Proposal & Mock-up Design) |
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)
 
 ---
 
@@ -279,4 +284,4 @@ Click the badge below to watch our group's video presentation on Google Drive:
 * *View of IMPACT OF COVID-19 ON MALAYSIAN E-COMMERCE*. (n.d.). International Journal on Recent Trends in Business and Tourism (IJRTBT). https://ejournal.lucp.net/index.php/ijrtbt/article/view/1464/1624
 * *What is Content Marketing? Content Marketing Definition*. (n.d.). Mailchimp. https://mailchimp.com/marketing-glossary/content-marketing/
 
-[Back to Top ↑](#offbuy--e-commerce-mobile-uiux-design-case-study)
+[Back to Top ↑](#top)

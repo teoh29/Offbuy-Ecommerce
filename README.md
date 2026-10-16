@@ -1,10 +1,6 @@
 # OffBuy — E-Commerce Mobile UI/UX Design Case Study
 
 <p align="center">
-  <img src="assets/Home/home.png" alt="OffBuy Banner" width="280"/>
-</p>
-
-<p align="center">
   <b>A minimalist, human-centered mobile commerce design focused on decluttering the buyer journey, eliminating hidden checkout friction, and streamlining navigation.</b>
 </p>
 

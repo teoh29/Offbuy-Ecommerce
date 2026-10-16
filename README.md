@@ -1,7 +1,7 @@
 # OffBuy — E-Commerce Mobile UI/UX Design Case Study
 
 <p align="center">
-  <img src="assets/Home.png" alt="OffBuy Banner" width="280"/>
+  <img src="assets/Home/home.png" alt="OffBuy Banner" width="280"/>
 </p>
 
 <p align="center">
